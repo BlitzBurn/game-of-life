@@ -1,8 +1,0 @@
-public class StartScreen{
-
-fill(173, 30, 30);
-textSize(82);
-text("Game of Life", 19, 220);
-
-
-}
